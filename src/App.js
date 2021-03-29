@@ -20,12 +20,3 @@ function App() {
 }
 
 export default App;
-
-/**
- *         <Router>
-            <Route exact path="/Movies" Components={Movies}/>
-            <Route exact path="/Series" Components={Series}/>
-            <Route exact path="/Header" Components={Header}/>
-
-        </Router>
- */
