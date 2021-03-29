@@ -1,0 +1,32 @@
+.header{
+    width: 100%;
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    background-color: rgb(35, 39, 42);
+}
+
+.search-button{
+    padding: 6px 10px;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+}
+
+.home-movies-series{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px;
+}
+
+input, button{
+    color: #fff;
+    font-family: Nunito;
+    padding: 5px;
+    margin: 2px;
+    border: 0;
+    background-color: transparent;
+}
